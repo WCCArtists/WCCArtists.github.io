@@ -1,0 +1,13 @@
+# Minimal Jekyll configuration for GitHub Pages
+
+# Use the minima theme
+remote_theme: jekyll/minima
+
+# Site settings
+title: "WCCArtists Workshop"
+email: "taehoonkim@sogang.ac.kr"
+description: "Workshop on Cultural Continuity of Artists (WCCA) at ICCV 2025"
+
+# Optional build settings
+markdown: kramdown
+
