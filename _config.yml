@@ -1,0 +1,16 @@
+# Minimal Jekyll configuration for GitHub Pages
+
+# Use a scholar-like theme
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+# Minimal Mistakes settings
+minimal_mistakes_skin: "air"
+
+# Site settings
+title: "WCCArtists Workshop"
+email: "taehoonkim@sogang.ac.kr"
+description: "Workshop on Cultural Continuity of Artists (WCCA) at ICCV 2025"
+
+# Optional build settings
+markdown: kramdown
+
