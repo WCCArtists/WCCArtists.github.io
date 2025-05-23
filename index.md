@@ -1,5 +1,6 @@
 ---
 title: "WCCA 2025 Workshop"
+permalink: /
 layout: single
 ---
 
