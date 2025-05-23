@@ -22,6 +22,16 @@ work.
 - Image and 3D generation for cultural artifacts
 - Ethical and social aspects of digitizing artistic legacies
 
+- 
+## Dataset
+
+We provide a research dataset derived from André Kim’s body of work:
+
+- **3D scans** of his avant‑garde fashion designs  
+- **Design documents** such as original sketches and production archives  
+- **Show footage** capturing the atmosphere of landmark runway shows  
+- **Supplementary materials** that enrich historical and cultural context
+
 ## Expected Outcomes
 - Build an interdisciplinary community around digital heritage
 - Advance research on multimodal analysis of artistic works
@@ -40,13 +50,22 @@ work.
 - Moontae Lee (University of Illinois Chicago)
 - Noa Garcia (Osaka University)
 - Youngjoon Choi (Amazon Web Services)
-- Alessandra Sala (Shutterstock) [Tentative]
-- Lev Manovich (City University of New York) [Tentative]
 
 ## Schedule & Submissions
 The workshop runs from **8:00 to 12:00** with keynote talks, invited speakers,
 and paper presentations. Paper submissions follow the ICCV 2025 format, with a
 30% acceptance rate for oral presentations.
+
+ 
+## Diversity & Inclusion
+
+WCCA unites perspectives across academia, industry, and cultural sectors—early‑career researchers, senior experts, and professionals from multiple continents—to foster an inclusive, multidisciplinary dialogue on AI‑driven cultural preservation.
+
+## Social, Ethical, and Industrial Considerations
+
+- **Social** — Democratizing public access to cultural heritage and reinforcing cultural identity  
+- **Ethical** — Respecting privacy, intellectual‑property rights, and mitigating bias in digitization processes  
+- **Industrial** — Forging commercial collaborations and embedding cultural narratives into digital products
 
 ## Broader Impact
 By uniting researchers, industry professionals, and cultural institutions, WCCA
