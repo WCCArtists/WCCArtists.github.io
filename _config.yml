@@ -14,7 +14,7 @@ logo: "/assets/images/iccv-navbar-logo.svg"
 # Explicit logo variants (some skins look for these keys)
 logo_light: "/assets/images/iccv-navbar-logo.svg"
 logo_dark:  "/assets/images/iccv-navbar-logo.svg"
-masthead_title: ""
+masthead_title: "WCCA 2025"
 
 # Optional build settings
 markdown: kramdown
