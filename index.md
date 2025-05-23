@@ -43,7 +43,7 @@ We provide a research dataset derived from André Kim’s body of work:
 - Nojun Kwak (Seoul National University)
 - Youngjoon Yoo (Chung-Ang University)
 - Sangdoo Yun (Naver AI Lab)
-- Everine Jo (EverTreasure | YEATU)
+- Everine Jo (EverTreasure)
 
 ## Invited Speakers
 - Daesik Kim (Naver Webtoon)
