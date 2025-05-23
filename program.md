@@ -1,5 +1,5 @@
 ---
-title: "ICCV Workshop on<br>Cultural Continuity of Artists"
+title: "<br><br><br>ICCV Workshop on<br>Cultural Continuity of Artists<br><br><br>"
 permalink: /program/
 layout: splash
 classes: wide
