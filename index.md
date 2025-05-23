@@ -5,12 +5,11 @@ layout: single
 header:
   overlay_image: /assets/images/hero-wcca-2025-hawaii-kstyle.png
   overlay_filter: 0.3
-  caption: "Hero image placeholder"
 ---
 
 # Welcome to **WCCA 2025**
 
-The Workshop on Cultural Continuity of Artists (WCCA) brings together researchers, creators, and cultural institutions to explore how computer vision, multimodal AI, and XR technologies can safeguard and reinterpret artistic legacies. Our inaugural edition—co‑located with ICCV 2025—highlights the visionary South Korean fashion designer **André Kim** and introduces a rich, newly curated dataset from his archives.
+The Workshop on Cultural Continuity of Artists (WCCA) brings together researchers, creators, and cultural institutions to explore how computer vision, multimodal AI, and XR technologies can safeguard and reinterpret artistic legacies. Our inaugural edition, co‑located with ICCV 2025, highlights the visionary South Korean fashion designer **André Kim** and introduces a rich, newly curated dataset from his archives.
 
 ## News
 

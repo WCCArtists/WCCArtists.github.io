@@ -1,11 +1,12 @@
 ---
 title: "ICCV Workshop on Cultural Continuity of Artists"
 permalink: /program/
-layout: single
+layout: splash
+classes: wide
 header:
   overlay_image: /assets/images/hero-wcca-2025-hawaii-kstyle.png
   overlay_filter: 0.3
-  caption: "Hero image placeholder"
+  overlay_filter_gradient: "rgba(0,0,0,0.4):30%"
 ---
 
 # Schedule
