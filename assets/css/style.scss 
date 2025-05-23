@@ -1,6 +1,0 @@
-.layout--splash .page__hero--overlay {
-  position: relative;
-  width: 100%;
-  padding-bottom: 56.25%;  // 9/16 * 100%
-  background-size: cover;
-}

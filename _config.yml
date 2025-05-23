@@ -9,11 +9,6 @@ plugins:
 
 # Site settings
 title: "WCCA 2025"
-logo: "/assets/images/iccv-navbar-logo.svg"
-# — Adding light/dark variants because navbar logo wasn’t rendering
-# Explicit logo variants (some skins look for these keys)
-logo_light: "/assets/images/iccv-navbar-logo.svg"
-logo_dark:  "/assets/images/iccv-navbar-logo.svg"
 masthead_title: "WCCA 2025"
 
 # Optional build settings

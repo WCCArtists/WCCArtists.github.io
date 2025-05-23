@@ -1,5 +1,5 @@
 ---
-title: ICCV Workshop on Cultural Continuity of Artists
+title: "ICCV Workshop on<br>Cultural Continuity of Artists"
 permalink: /invited-talks/
 layout: splash
 classes: wide
