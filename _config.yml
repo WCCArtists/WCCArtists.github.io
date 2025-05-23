@@ -8,8 +8,8 @@ plugins:
   - jekyll-include-cache
 
 # Site settings
-title: "WCCA 2025 Workshop"
-logo: "/assets/images/logo-placeholder.svg"
+title: "WCCA 2025"
+logo: "/assets/images/iccv-navbar-logo.svg"
 masthead_title: ""
 
 # Optional build settings

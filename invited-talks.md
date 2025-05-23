@@ -1,9 +1,9 @@
 ---
-title: "Invited Talks"
+title: "ICCV Workshop on Cultural Continuity of Artists"
 permalink: /invited-talks/
 layout: single
 header:
-  overlay_image: /assets/images/hero-placeholder.svg
+  overlay_image: /assets/images/hero-wcca-2025-hawaii-kstyle.png
   overlay_filter: 0.3
   caption: "Hero image placeholder"
 ---

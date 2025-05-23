@@ -1,15 +1,15 @@
 ---
-title: "Attendance"
-permalink: /Attendance/
+title: "ICCV Workshop on Cultural Continuity of Artists"
+permalink: /registration/
 layout: single
 header:
-  overlay_image: /assets/images/hero-placeholder.svg
+  overlay_image: /assets/images/hero-wcca-2025-hawaii-kstyle.png
   overlay_filter: 0.3
   caption: "Hero image placeholder"
 ---
 
 
-## Registration
+# Registration
 
 The workshop will follow the registration policy of ICCV 2025 main conference. 
 
@@ -17,4 +17,3 @@ Each paper MUST be registered under an AUTHOR registration.  (There is a student
 
 Virtual registrations will not cover a paper submission - even workshop papers. If circumstances prevent you from attending in person to present your paper, you may attend virtually but you must register and pay for your paper under an in-person registration and please select that you will attend virtually.
 
-## Venue
