@@ -1,9 +1,6 @@
 ---
-
-layout: single
-=======
-
 title: "WCCA 2025 Workshop"
+layout: single
 ---
 
 # Workshop on Cultural Continuity of Artists (WCCA)
