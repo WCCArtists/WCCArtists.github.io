@@ -9,6 +9,8 @@ plugins:
 
 # Site settings
 title: "WCCA 2025 Workshop"
+logo: "/assets/images/logo-placeholder.svg"
+masthead_title: ""
 
 # Optional build settings
 markdown: kramdown
