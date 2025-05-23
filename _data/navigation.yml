@@ -1,0 +1,13 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Call for Papers"
+    url: /call-for-papers/
+  - title: "Invited Talks"
+    url: /invited-talks/
+  - title: "Program"
+    url: /program/
+  - title: "Organizers"
+    url: /organizers/
+  - title: "Registration"
+    url: /registration/
