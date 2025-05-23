@@ -1,0 +1,6 @@
+.layout--splash .page__hero--overlay {
+  min-height: 100vh;        /* 필요에 따라 조정 */
+  background-position: center center;
+  background-size: cover;  /* 기존 cover를 유지하면서 높이를 충분히 확보 */
+}
+

@@ -1,5 +1,0 @@
-.layout--splash .page__hero--overlay {
-  background-size: contain !important;
-  background-position: center center !important;
-  background-repeat: no-repeat;
-}

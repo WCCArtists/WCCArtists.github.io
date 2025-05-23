@@ -1,7 +1,5 @@
 ---
-title: |
-  ICCV Workshop on
-  Cultural Continuity of Artists
+title: ICCV Workshop on Cultural Continuity of Artists
 permalink: /call-for-papers/
 layout: splash
 classes: wide
