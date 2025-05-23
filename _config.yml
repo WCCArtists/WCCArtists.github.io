@@ -1,12 +1,24 @@
 # Minimal Jekyll configuration for GitHub Pages
 
+
+# Use the Minimal Mistakes theme for a more academic style
+remote_theme: "mmistakes/minimal-mistakes"
+
+# Apply the "air" skin
+minimal_mistakes_skin: "air"
+
+# Plugins required by the theme
+plugins:
+  - jekyll-include-cache
+
+# Site settings
+title: "WCCA 2025 Workshop"
+=======
 # Use the minima theme
 remote_theme: jekyll/minima
 
 # Site settings
 title: "WCCArtists Workshop"
-email: "taehoonkim@sogang.ac.kr"
-description: "Workshop on Cultural Continuity of Artists (WCCA) at ICCV 2025"
 
 # Optional build settings
 markdown: kramdown

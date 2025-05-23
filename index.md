@@ -1,5 +1,8 @@
 ---
-layout: default
+
+layout: single
+=======
+
 title: "WCCA 2025 Workshop"
 ---
 
