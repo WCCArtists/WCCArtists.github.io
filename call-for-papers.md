@@ -46,7 +46,7 @@ Authors must comply with all ICCV ethical and formatting standards. Please refer
 ## How to Submit
 Papers should be submitted via OpenReview.net:
 
-- Submission site: TBU
+- Submission site: [ICCV 2025 WCCA at Openreview.net](https://openreview.net/group?id=thecvf.com/ICCV/2025/Workshop/WCCA)
 - Required files: PDF of the main paper and, optionally, a supplementary `.zip`  
 
 
