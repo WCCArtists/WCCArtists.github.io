@@ -9,6 +9,20 @@ header:
   overlay_filter_gradient: "rgba(0,0,0,0.4):30%"
 ---
 
-# Schedule
+# Schedule (TBU)
 
-The workshop is scheduled from 8:00 to 12:00 and will be divided into two sessions separated by a coffee break. The first session will feature a keynote talk followed by invited talks. The second session will include another keynote, paper presentations, and panel discussions. A detailed schedule will be coordinated with the ICCV 2025 organizing committee.
+Below is a provisional agenda based on our current lineup of invited speakers. Exact titles and timings will be updated as details are finalized.
+
+| Time (HST) | Session | Speaker | Status |
+|------------|---------|---------|--------|
+| 08:00–08:10 | Opening remarks | Organizers | Confirmed |
+| 08:10–08:50 | Keynote 1 | Daiwon Hyun (Sogang University) | Confirmed |
+| 08:50–09:20 | Invited talk | Daesik Kim (NAVER WEBTOON) | Confirmed |
+| 09:20–09:50 | Invited talk | Moontae Lee (University of Illinois Chicago) | Confirmed |
+| 09:50–10:10 | Coffee break | — | — |
+| 10:10–10:40 | Keynote 2 | Nojun Kwak (Seoul National University) | Confirmed |
+| 10:40–11:10 | Invited talk | Noa Garcia (Osaka University) | Confirmed |
+| 11:10–11:40 | Invited talk | Youngjoon Choi (Amazon Web Services) | Confirmed |
+| 11:40–12:00 | Panel discussion & closing | All speakers | TBU |
+
+_All times are tentative and subject to change._

@@ -16,12 +16,15 @@ The Workshop on Cultural Continuity of Artists (WCCA) brings together researcher
 ## News
 
 - **May 23rd, 2025** : Official website opened.
+- **June 3rd, 2025** : Call for Paper announced.
 
 ## Important dates
-- **Paper submission deadline:** June 27th, 2025 
+- **Paper submission deadline:** June 30th, 2025 
 - **Notification of acceptance:** July 11th, 2025
-- **Camera‑ready deadline:** August 11th, 2025
+- **Proceedings camera‑ready deadline:** August 11th, 2025
 - **Workshop date:** October 19-20th 2025 (TBD) (in conjunction with ICCV 2025, Honolulu, Hawaii)
+
+*Presentation and OpenReview timelines will be announced separately.*
 
 ## Expected Outcomes
 - Build an interdisciplinary community around digital heritage

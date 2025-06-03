@@ -11,7 +11,7 @@ header:
 
 # Dataset
 
-We provide a research dataset derived from André Kim’s body of work:
+We will provide a research dataset derived from André Kim’s body of work:
 
 - **3D scans** of his avant‑garde fashion designs  
 - **Design documents** such as original sketches and production archives  
