@@ -47,4 +47,4 @@ aims to foster collaboration in digital cultural preservation. We will address t
 social and ethical considerations of digitizing art while showcasing how AI can
 help sustain cultural heritage for future generations.
 
-For questions, please contact [Taehoon Kim](mailto:taehoonkim@sogang.ac.kr).
+For questions, please email Taehoon Kim at **taehoonkim@sogang.ac.kr**.
