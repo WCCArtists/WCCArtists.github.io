@@ -31,7 +31,7 @@ The Workshop on Cultural Continuity of Artists (WCCA 2025) invites original res
 - Proceedings camera‑ready deadline: **August 11, 2025**  
 - Workshop date: **October 19 to 20, 2025** (in conjunction with ICCV 2025, Honolulu, Hawaii)  
 
-> **Note:** The dates above refer to the proceedings timeline. Submission details and the schedule for workshop presentations (oral/poster) as well as the public release on OpenReview will be announced later.
+> **Note:** The dates above refer to the proceedings timeline. Submission details and the schedule for Extended Abstracts will be announced soon.
 
 ## Submission Guidelines
 Submitted manuscripts must follow the ICCV 2025 formatting template and should be **4 - 8 pages in length**, including figures and tables.
