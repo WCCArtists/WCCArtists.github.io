@@ -35,7 +35,7 @@ The Workshop on Cultural Continuity of Artists (WCCA 2025) invites original res
 
 ## Submission Guidelines
 Submitted manuscripts must follow the ICCV 2025 formatting template and should be **4 - 8 pages in length**, including figures and tables.
-The official author kit—including LaTeX/Word templates and detailed instructions—can be downloaded here: <https://media.eventhosts.cc/Conferences/ICCV2025/ICCV2025-Author-Kit-Feb.zip>.
+The official author kit—including LaTeX/Word templates and detailed instructions—can be downloaded here: [ICCV Author Kit](https://media.eventhosts.cc/Conferences/ICCV2025/ICCV2025-Author-Kit-Feb.zip).
 References do not count toward this page limit. Any appendices included in the main PDF must also fit within the four‑to‑eight‑page range. Authors who wish to provide additional material may upload a single compressed `.zip` file (maximum 50 MB) by the main submission deadline.
 
 All papers must be anonymized for double‑blind review. Submissions that are not properly anonymized, do not comply with the ICCV style, or exceed the page limit may be rejected without review. Accepted papers will be published in the ICCV 2025 Workshop Proceedings. Approximately five to ten papers (about 30 percent) will be selected for oral presentation.
