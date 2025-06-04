@@ -1,24 +1,35 @@
 ---
-title: "Program"
-permalink: /program/
-layout: page
+title: "<br><br><br>ICCV Workshop on<br>Cultural Continuity of Artists<br><br><br>"
+permalink: /invited-talks/
+layout: splash
 classes: wide
+header:
+  overlay_image: /assets/images/hero-wcca-2025-hawaii-kstyle.png
+  overlay_filter: 0.3
+  overlay_filter_gradient: "rgba(0,0,0,0.4):30%"
 ---
+# Invited Speakers
 
-# Schedule (TBU)
+## Daesik Kim
+* **Affiliation:** NAVER WEBTOON  
+* **Homepage:** [LinkedIn](https://www.linkedin.com/in/daesikkim/)
 
-Below is a provisional agenda based on our current lineup of invited speakers. Exact titles and timings will be updated as details are finalized.
+Daesik Kim leads AI and data strategy at WEBTOON Entertainment, focusing on computer vision and deep learning for digital storytelling. His innovations in automated content recognition directly support WCCA’s mission to preserve and enhance cultural content.
 
-| Time (HST) | Session | Speaker | Status |
-|------------|---------|---------|--------|
-| 08:00–08:10 | Opening remarks | Organizers | Confirmed |
-| 08:10–08:50 | Keynote 1 | TBU | Pending |
-| 08:50–09:20 | Invited talk | Daesik Kim (NAVER WEBTOON) | TBU |
-| 09:20–09:50 | Invited talk | Moontae Lee (University of Illinois Chicago) | TBU |
-| 09:50–10:10 | Coffee break | — | — |
-| 10:10–10:40 | Keynote 2 | TBU | Pending |
-| 10:40–11:10 | Invited talk | Noa Garcia (Osaka University) | TBU |
-| 11:10–11:40 | Invited talk | Youngjoon Choi (Amazon Web Services) | TBU |
-| 11:40–12:00 | Panel discussion & closing | All speakers | TBU |
+## Moontae Lee
+* **Affiliation:** University of Illinois Chicago  
+* **Homepage:** [Homepage](https://moontae.people.uic.edu/)
 
-_All times are tentative and subject to change._
+Moontae Lee specializes in data‑driven methods for digital media and cultural analytics. His insights on AI integration, efficient data processing, and decision‑making frameworks are pivotal to heritage‑preservation initiatives like WCCA.
+
+## Noa Garcia
+* **Affiliation:** Osaka University  
+* **Homepage:** [Homepage](https://www.noagarciad.com/)
+
+A computer‑vision researcher focused on image recognition, generative models, and bias in AI, Noa Garcia contributes directly to new methods of preserving and interpreting artistic data—central to the workshop’s objectives.
+
+## Youngjoon Choi
+* **Affiliation:** Amazon Web Services  
+* **Homepage:** [LinkedIn](https://www.linkedin.com/in/napkin/)
+
+As an AI/ML Solutions Architect at AWS, Youngjoon Choi provides practical expertise in large‑scale, cloud‑based ML systems. His experience is key to efficiently scaling digital‑heritage preservation projects.
