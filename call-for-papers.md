@@ -25,11 +25,11 @@ The Workshop on Cultural Continuity of Artists (WCCA 2025) invites original res
 - Responsible AI practices for bias mitigation and privacy protection  
 
 ## Important Dates 
-- Call for Papers released: **May 23, 2025** 
-- Paper submission deadline: **June 30, 2025**  
-- Author notifications: **July 11, 2025**  
-- Proceedings camera‑ready deadline: **August 11, 2025**  
-- Workshop date: **October 19 to 20, 2025** (in conjunction with ICCV 2025, Honolulu, Hawaii)  
+- Call for Papers released: **May 23rd, 2025** 
+- Paper submission deadline: **July 1st, 2025**  
+- Author notifications: **July 11th, 2025**  
+- Proceedings camera‑ready deadline: **August 11th, 2025**  
+- Workshop date: **October 19th to 20th, 2025** (in conjunction with ICCV 2025, Honolulu, Hawaii)  
 
 > **Note:** The dates above refer to the proceedings timeline. Submission details and the schedule for Extended Abstracts will be announced soon.
 

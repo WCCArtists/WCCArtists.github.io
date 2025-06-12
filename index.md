@@ -20,7 +20,7 @@ The Workshop on Cultural Continuity of Artists (WCCA) brings together researcher
 - **June 4th, 2025** : [Openreview Submission Site](https://openreview.net/group?id=thecvf.com/ICCV/2025/Workshop/WCCA) opened!
 
 ## Important dates
-- **Paper submission deadline:** June 30th, 2025 
+- **Paper submission deadline:** July 1st, 2025 
 - **Notification of acceptance:** July 11th, 2025
 - **Proceedings camera‑ready deadline:** August 11th, 2025
 - **Workshop date:** October 19-20th 2025 (TBD) (in conjunction with ICCV 2025, Honolulu, Hawaii)
