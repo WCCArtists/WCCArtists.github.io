@@ -71,7 +71,7 @@ header:
     <tr>
       <td>11:15 - 11:30</td>
       <td>Invited Talk 1</td>
-      <td>TBU</td>
+      <td>Decoding Visual Heritage: Annotation-Free Object Detection <br>and Archival Summarization</td>
       <td>Noa Garcia</td>
     </tr>
     <tr>
