@@ -3,13 +3,13 @@ main:
     url: /
   - title: "Program"
     url: /program/
-  - title: "Invited Talks"
-    url: /invited-talks/
   - title: "Dataset"
     url: /dataset/
   - title: "Call for Papers"
     url: /call-for-papers/
   - title: "Organizers"
     url: /organizers/
+  - title: "Invited Talks"
+    url: /invited-talks/
   - title: "Registration"
     url: /registration/
