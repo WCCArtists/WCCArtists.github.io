@@ -30,12 +30,12 @@ header:
     <tr>
       <td>08:45 - 09:00</td>
       <td rowspan="5">Oral Session 1</td>
-      <td>FashionRNA: Interactive Reimagination<br>of Fashion Heritage</td>
+      <td>FashionRNA: Interactive Reimagination of Fashion Heritage</td>
       <td>Haneol Kim</td>
     </tr>
     <tr>
       <td>09:00 - 09:15</td>
-      <td>HaSPeR: An Image Repository for<br>Hand Shadow Puppet Recognition</td>
+      <td>HaSPeR: An Image Repository for Hand Shadow<br>Puppet Recognition</td>
       <td>Syed Rifat Raiyan</td>
     </tr>
     <tr>
@@ -50,7 +50,7 @@ header:
     </tr>
     <tr>
       <td>09:45 - 10:00</td>
-      <td>K-StyleLoRA: Information-Guided Image Generation<br>via Selective Feature Learning</td>
+      <td>K-StyleLoRA: Information-Guided Image Generation via Selective Feature Learning</td>
       <td>Hyoungseo Cho</td>
     </tr>
     <tr>
@@ -77,7 +77,7 @@ header:
     <tr>
       <td>11:30 - 11:55</td>
       <td>Invited Talk 2</td>
-      <td>The New Coexistence of Comics<br>in the Era of Generative AI</td>
+      <td>The New Coexistence of Comics in the Era of Generative AI</td>
       <td>Youngjoon Choi (AWS)</td>
     </tr>
     <tr>

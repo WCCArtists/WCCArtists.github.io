@@ -1,5 +1,5 @@
 ---
-title: "<br><br><br>ICCV Workshop on<br>Cultural Continuity of Artists<br><br><br>"
+title: "<br><br><br>ICCV Workshop on <br>Cultural Continuity of Artists<br><br><br>"
 permalink: /
 layout: splash
 classes: wide
@@ -24,7 +24,7 @@ The Workshop on Cultural Continuity of Artists (WCCA) brings together researcher
 - **Paper submission deadline:** July 8th, 2025 
 - **Notification of acceptance:** July 11th, 2025
 - **Proceedings camera‑ready deadline:** August 11th, 2025
-- **Workshop date:** October 20th, 2025, 8:30 AM - 12:00 PM (HST) (in conjunction with ICCV 2025, Honolulu, Hawaii)
+- **Workshop date:** October 20th, 2025, 8:30 AM - 12:00 PM (HST) (in ICCV 2025, Honolulu, Hawaii)
 
 
 ## Expected Outcomes
