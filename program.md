@@ -9,20 +9,21 @@ header:
   overlay_filter_gradient: "rgba(0,0,0,0.4):30%"
 ---
 
-# Schedule (TBU)
+# Workshop Schedule
 
-Below is a provisional agenda based on our current lineup of invited speakers. Exact titles and timings will be updated as details are finalized.
+| Time | Session | Talk | Speaker |
+|------|---------|------|---------|
+| 08:30 - 08:45 | Introduction | Opening Remarks | Nojun Kwak |
+| 08:45 - 09:00 | Oral Session 1 | FashionRNA: Interactive Reimagination of Fashion Heritage | Haneol Kim |
+| 09:00 - 09:15 | | HaSPeR: An Image Repository for Hand Shadow Puppet Recognition | Syed Rifat Raiyan |
+| 09:15 - 09:30 | | Bayesian Patch-Based Inpainting for Art Restoration: Uncertainty-Aware Recovery of Damaged Artworks | Loan Gia |
+| 09:30 - 09:45 | | Towards a New Copyright Paradigm for Generative AI: Bridging Human-Machine Creativity Through Legal and Policy Reform | Daiwon Hyun |
+| 09:45 - 10:00 | | K-StyleLoRA: Information-Guided Image Generation via Selective Feature Learning | Hyoungseo Cho |
+| 10:00 - 10:45 | Coffee Break & Posters | | |
+| 10:45 - 11:00 | Oral Session 2 | WCCA-AK: A Multimodal Dataset of André Kim's Fashion Legacy for AI-Driven Cultural Heritage Research | SeongYeon Oh |
+| 11:00 - 11:15 | | Lost in Translation: A Position Paper on Probing Cultural Bias in Vision-Language Models via Hanbok VQA | HyeokJun Lee |
+| 11:15 - 11:30 | Invited Talk 1 | TBU | Noa Garcia |
+| 11:30 - 11:55 | Invited Talk 2 | The New Coexistance of Comics in the Era of Generative AI | Youngjoon Choi (AWS) |
+| 11:55 - 12:00 | Closing | Closing Remarks | Taehoon Kim |
 
-| Time (HST) | Session | Speaker | Status |
-|------------|---------|---------|--------|
-| 08:00–08:10 | Opening remarks | Organizers | Confirmed |
-| 08:10–08:50 | Keynote 1 | Daiwon Hyun (Sogang University) | Confirmed |
-| 08:50–09:20 | Invited talk | Daesik Kim (NAVER WEBTOON) | Confirmed |
-| 09:20–09:50 | Invited talk | Moontae Lee (University of Illinois Chicago) | Confirmed |
-| 09:50–10:10 | Coffee break | — | — |
-| 10:10–10:40 | Keynote 2 | Nojun Kwak (Seoul National University) | Confirmed |
-| 10:40–11:10 | Invited talk | Noa Garcia (Osaka University) | Confirmed |
-| 11:10–11:40 | Invited talk | Youngjoon Choi (Amazon Web Services) | Confirmed |
-| 11:40–12:00 | Panel discussion & closing | All speakers | TBU |
-
-_All times are tentative and subject to change._
+_All times are in Hawaii Standard Time (HST)._
