@@ -1,14 +1,14 @@
 main:
   - title: "Home"
     url: /
-  - title: "Call for Papers"
-    url: /call-for-papers/
-  - title: "Invited Talks"
-    url: /invited-talks/
   - title: "Program"
     url: /program/
+  - title: "Invited Talks"
+    url: /invited-talks/
   - title: "Dataset"
     url: /dataset/
+  - title: "Call for Papers"
+    url: /call-for-papers/
   - title: "Organizers"
     url: /organizers/
   - title: "Registration"

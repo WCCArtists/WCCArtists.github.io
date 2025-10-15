@@ -10,18 +10,6 @@ header:
 ---
 # Invited Speakers
 
-## Daesik Kim
-* **Affiliation:** NAVER WEBTOON  
-* **Homepage:** [LinkedIn](https://www.linkedin.com/in/daesikkim/)
-
-Daesik Kim leads AI and data strategy at WEBTOON Entertainment, focusing on computer vision and deep learning for digital storytelling. His innovations in automated content recognition directly support WCCA’s mission to preserve and enhance cultural content.
-
-## Moontae Lee
-* **Affiliation:** University of Illinois Chicago  
-* **Homepage:** [Homepage](https://moontae.people.uic.edu/)
-
-Moontae Lee specializes in data‑driven methods for digital media and cultural analytics. His insights on AI integration, efficient data processing, and decision‑making frameworks are pivotal to heritage‑preservation initiatives like WCCA.
-
 ## Noa Garcia
 * **Affiliation:** Osaka University  
 * **Homepage:** [Homepage](https://www.noagarciad.com/)
@@ -32,4 +20,4 @@ A computer‑vision researcher focused on image recognition, generative models, 
 * **Affiliation:** Amazon Web Services  
 * **Homepage:** [LinkedIn](https://www.linkedin.com/in/napkin/)
 
-As an AI/ML Solutions Architect at AWS, Youngjoon Choi provides practical expertise in large‑scale, cloud‑based ML systems. His experience is key to efficiently scaling digital‑heritage preservation projects.
+As an AI/ML Solutions Architect at AWS, Youngjoon Choi provides practical expertise in large‑scale, cloud‑based ML systems. His experience is key to efficiently scaling digital‑heritage preservation projects. His invited talk will cover "The New Coexistence of Comics in the Era of Generative AI."

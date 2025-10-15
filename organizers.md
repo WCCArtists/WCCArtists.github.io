@@ -49,9 +49,3 @@ Sangdoo is a research director at Naver AI Lab and an adjunct professor at Seoul
 He received his PhD in computer vision from Seoul National University. 
 His research interest is training robust and strong machine learning models. He served as an Area Chair at ICLR, NeurIPS, CVPR, ECCV, and AAAI. He co-organized “Video-Language Models” and “ImageNet: Past, Present, and Future” Workshops at the NeurIPS 2024 and NeurIPS 2021, respectively. He has published over 30 papers at top-tier machine learning conferences, including NeurIPS, ICML, ICLR, CVPR, ECCV, and ICCV. 
 
-## Everine Jo
-* **Affiliation:** EverTreasure  
-* **Email:** everine.jo@evertreasure.xyz  
-* **Homepage:** [YEATU](https://www.yeatu.com/)
-
-Everine Jo is the founder and CEO of EverTreasure, where she leads YEATU, an AI-powered art investment platform. Drawing on her background in finance, law, and digital strategy, she integrates machine learning, financial modeling, and blockchain-based provenance. Her entrepreneurial approach emphasizes both academic rigor and real-world impact, creating tangible value for artists and cultural institutions.
